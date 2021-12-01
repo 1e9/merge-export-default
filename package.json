@@ -1,0 +1,16 @@
+{
+  "name": "merge-export-default",
+  "version": "1.0.0",
+  "description": " merge es module export default",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "['es module",
+    "'merge'",
+    "export default']"
+  ],
+  "author": "cruise",
+  "license": "ISC"
+}
