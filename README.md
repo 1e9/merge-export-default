@@ -26,6 +26,6 @@ import mergeModules from 'merge-export-default';
 import * as a from './a.js';
 import * as b from './a.js';
 
-// { A: 'A', B: 'B', a_default: [Function: foo] }
+// output: { A: 'A', B: 'B', a_default: [Function: foo] }
 export default mergeModules({ a, b }); 
 ```

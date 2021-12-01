@@ -1,6 +1,7 @@
 {
   "name": "merge-export-default",
   "version": "1.0.1",
+  "type": "module",
   "description": " merge es module export default",
   "main": "index.js",
   "scripts": {
@@ -11,6 +12,6 @@
     "'merge'",
     "export default']"
   ],
-  "author": "cruise",
+  "author": "cruise <1051433037@qq.com>",
   "license": "ISC"
 }
