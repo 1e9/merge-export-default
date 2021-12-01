@@ -29,7 +29,3 @@ import * as b from './a.js';
 // { A: 'A', B: 'B', a_default: [Function: foo] }
 export default mergeModules({ a, b }); 
 ```
-
-## API
-
-See the [`merge-export-default` API](https://github.com/sindresorhus/sudo-block#api).
